@@ -1,0 +1,21 @@
+Keywords and Variables
+Primitive data-types
+Strings
+Type-casting
+Arithmetic operators
+Making decisions with operators
+Ternary operator
+Assignment operator
+Making decisions with else-if
+Switch cases
+For loop
+While loop
+Do-while loop
+Break and Continue
+For-each
+Nested loops
+Methods
+Return in methods
+Method overloading
+Code blocks, Indentation and Statements.
+Literals
