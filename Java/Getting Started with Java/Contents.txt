@@ -1,0 +1,4 @@
+Keywords and Variables
+Primitive Data-types
+Strings
+Type-casting
